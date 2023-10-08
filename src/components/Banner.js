@@ -56,7 +56,7 @@ const Banner = () => {
             whileInView={'show'}
             viewport={{once:false, amount:0.7}}         
           className='mb-8 max-w-lg mx-auto lg:mx-0'> 
-            I am a web developer based in the India. I have a passion for web
+            I am a web developer and UX/UI Designer. I have a passion for web
             development and love to create for web and mobile devices.
           </motion.p>
           <motion.div
