@@ -25,10 +25,10 @@ const Work = () => {
               Work.
             </h2>
             <p className='max-w-sm mb-5 mx-20'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-               Proin ultricies dui quam, eget tristique purus tincidunt eget. Integer ligula libero,
-                iaculis ut lacus efficitur, vehicula vulputate quam. Phasellus scelerisque lorem odio, 
-                in pretium justo malesuada ac.
+              I created a website using React.js to showcase my top websites.
+          It's a platform where I can share and highlight the websites that I'm most proud of. 
+          This project allows me to exhibit my skills in web development and create a user-friendly interface 
+          for presenting my work to visitors.
                 </p>
                 <button className='btn btn-sm mx-20'>View All Projects</button>
           </div>
