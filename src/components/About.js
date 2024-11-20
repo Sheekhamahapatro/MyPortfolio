@@ -36,8 +36,8 @@ const About = () => {
           className='flex-1'>
             <h2 className='h2 text-epic font-primary'>About Me</h2>
 
-            <h3 className='h3 mb-4'>I am a  Freelance Front-end Developer with over 5 years of 
-              experience
+            <h3 className='h3 mb-4'>Passionate Web Developer Creating User-Friendly, Efficient 
+            Digital Solutions
             </h3>
             <p className='mb-6'>
             Aspiring Software Developer skilled in HTML, CSS, JavaScript, and ReactJS, with expertise in Python, SQL, and UX/UI design. 
