@@ -46,7 +46,7 @@ const Services = () => {
         mix-blend-lighten mb12 lg:mb-0'>
           <h2 className='h2 text-epic mb-6'>What I do</h2>
           <h3 className='h3 max-w-[455px] mb-16 '>
-            I am a  Freelance Front-end Developer with over 5 years of 
+            I am a  Freelance Front-end Developer with over 1 years of 
               experience</h3>
 
             <button className='btn btn-sm mb-5'>See My Work</button>
