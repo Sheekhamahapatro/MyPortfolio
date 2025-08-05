@@ -59,17 +59,27 @@ const Banner = () => {
             I am a web developer and UX/UI Designer. I have a passion for web
             development and love to create for web and mobile devices.
           </motion.p>
-          <motion.div
-            variants={fadeIn('up', 0.6)}
-            initial="hidden"
-            whileInView={'show'}
-            viewport={{once:false, amount:0.7}}
-           className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
-            <button className='btn btn-lg'>Contact me</button>
-            <a href='#' className='text-gradient btn-link'>
-              My Portfolio
-              </a>
-          </motion.div>
+      <motion.div
+  variants={fadeIn('up', 0.6)}
+  initial="hidden"
+  whileInView={'show'}
+  viewport={{once:false, amount:0.7}}
+  className='flex flex-wrap gap-6 items-center mb-12 mx-auto lg:mx-0'>
+  
+  <button className='btn btn-lg'>Contact me</button>
+
+  <a href='#' className='text-gradient btn-link'>
+    My Portfolio
+  </a>
+
+  <a
+    href='/Sheekha_Mahapatro_Resume.pdf'
+    download
+    className='btn btn-lg'
+  >
+    Download Resume
+  </a>
+</motion.div>
           {/* Socials */}
           <motion.div
             variants={fadeIn('up', 0.7)}
