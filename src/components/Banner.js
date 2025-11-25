@@ -66,7 +66,7 @@ const Banner = () => {
             viewport={{once:false, amount:0.7}}
            className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'>
             <button className='btn btn-lg'>Contact me</button>
-            <a href='/SheekhaMahapatro_Resume.pdf'
+            <a href='/Sheekha_Mahapatro_Resume.pdf'
               download
               className='text-gradient btn-link'>
               My Resume
