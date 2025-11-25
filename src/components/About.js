@@ -36,13 +36,13 @@ const About = () => {
           className='flex-1'>
             <h2 className='h2 text-epic font-primary'>About Me</h2>
 
-            <h3 className='h3 mb-4'>Aspiring Software Developer with a Focus on Machine Learning and Innovation
+            <h3 className='h3 mb-4'>UI/UX Designer & Front-End Developer focused on Creating User-Centric Digital Experiences
             </h3>
             <p className='mb-6'>
-            Aspiring Software Developer skilled in HTML, CSS, JavaScript, and ReactJS, with expertise in Python, SQL, and UX/UI design. 
-            Experienced in web development, backend optimization, and crafting intuitive digital solutions. 
-            Proven ability to enhance efficiency and user engagement through innovative projects like a PDF Merger,
-            portfolio site, Git-Fetch App, and Weather App.
+           Passionate UI/UX Designer skilled in crafting intuitive and accessible web and mobile experiences using Figma, Adobe XD, and React.js. 
+           Experienced in user research, wireframing, prototyping, usability testing, and responsive interface development. 
+           I combine design thinking with front-end development to transform user needs into seamless, visually appealing, and efficient digital solutions. 
+           My focus is on improving user satisfaction, task completion time, and accessibility across platforms.
             </p>
             {/* {stats} */}
             <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
