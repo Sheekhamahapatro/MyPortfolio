@@ -11,7 +11,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   return (
-    <div className='bg-site bg-cover bg-no-repeat overflow-y-hidden overflow-x-hidden'>
+    <div className="portfolio-page m-0 flex min-h-screen flex-col gap-0 overflow-x-hidden bg-[var(--bg)] p-0">
       <Header />
       <Banner />
       <Nav />
@@ -19,8 +19,7 @@ const App = () => {
       <Services />
       <Work />
       {/* <Contact /> */}
-      <Footer/>
-      {/* <div className='h-[1px] '></div> */}
+      <Footer />
     </div>
   );
 };

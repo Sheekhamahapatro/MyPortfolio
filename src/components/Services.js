@@ -33,7 +33,7 @@ const services=[
 ]
 const Services = () => {
   return (
-  <section className='section' id='services'>
+  <section className='section' id='skills'>
     <div className='container mx-auto pt-20'style={{paddingTop:'50px'}}>
       <div className='flex flex-col lg:flex-row'>
         {/* text & image */}

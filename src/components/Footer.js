@@ -6,7 +6,7 @@ import Logo from '../assets/Logo.png';
 const Footer = () => {
 
     return (
-      <footer className=" bg-black/50  py-10 mt-20">
+      <footer id="contact" className="bg-black/50 py-10 mt-0">
   
   <div className="container mx-auto px-4">
 

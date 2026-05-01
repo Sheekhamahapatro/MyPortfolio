@@ -3,9 +3,11 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      primary: ['Orbitron', 'sans'],
-      secondary: ['Comfortaa', 'cursive'],
-      tertiary: ['Aldrich','sans'],
+      sans: ['Inter', 'sans-serif'],
+      display: ['Fraunces', 'serif'],
+      primary: ['Fraunces', 'serif'],
+      secondary: ['Inter', 'sans-serif'],
+      tertiary: ['Fraunces', 'serif'],
     },
     container: {
       padding: {
@@ -21,8 +23,8 @@ module.exports = {
     extend: {
       colors: {
         primary: '#0a0a0a',
-        accent: '#254cfa',
-        epic:'#028cd6',
+        accent: '#c8f04a',
+        epic: '#028cd6',
       },
       backgroundImage: {
         site: "url('./assets/site-bg.jpg')",
